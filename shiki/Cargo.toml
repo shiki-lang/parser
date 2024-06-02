@@ -1,0 +1,10 @@
+[package]
+name = "shiki-lang"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nom = "7"
+kuchiki = "0.8"
+swc_ecma_parser = "0.10"
+cssparser = "0.27.2"

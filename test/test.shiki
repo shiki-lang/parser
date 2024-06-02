@@ -1,0 +1,11 @@
+<script>
+let a = "World"
+</script>
+
+<h1>hello {a}!</h1>
+
+<style>
+h1 {
+    color: red;
+}
+</style>
